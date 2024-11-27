@@ -1,0 +1,4 @@
+﻿  Assembling syscall.asm...
+  direct_systen.cpp
+    正在创建库 C:\Users\liuhua\source\repos\direct_syscall\x64\Debug\direct_syscall.lib 和对象 C:\Users\liuhua\source\repos\direct_syscall\x64\Debug\direct_syscall.exp
+  direct_syscall.vcxproj -> C:\Users\liuhua\source\repos\direct_syscall\x64\Debug\direct_syscall.exe
